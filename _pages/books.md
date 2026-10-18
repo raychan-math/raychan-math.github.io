@@ -6,7 +6,7 @@ nav: false
 collection: books
 ---
 
-Want to have something to lighten up your day? You are in the right place then. As you might know by this, this page enlists facts that you might never know of. Some of them are humorous, some are pointless.
+Want to have something to lighten up your day? Or you want to impress someone in a party? You are in the right place then. As you might know by now, this page enlists facts that you might never know of. Some of them are humorous, some are pointless.
 
 The date in each entry just indicates the date I learned this fact. It is purely there for organizational prupose. "XX" means I don't remember the exact date I obtain it.
 
@@ -61,11 +61,7 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 04/30/2026: The city of Cleveland, Ohio was originally called Cleaveland, but a local newspaper decided to shorten its own name and dropped the "a," and for whatever reason, it stuck.
 
-- 05/02/2026: Pennsylvania and Connecticut are two inland US states that have a tidal shoreline. (Please note that there is not a widely accepted definition of a coastline state; for me, a coastline is refered to a boundary component intersecting with ocean water during the lowest possible tide, and a coastline state is a state containing a coastline.)
-
 - 05/02/2026: Rhode Islands was originally called "Rhode Island and Providence Plantations," and it was officially shorten up in 2020.
-
-- 05/02/2026: Florida has a unique landlock city: Orlando!
 
 - 05/02/2026: Vexillology is the scholarly study of the history, symbolism, and usage of flags
 
@@ -100,7 +96,8 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 - 05/12/2026: Deer tongue is a geniune kind of lettuce (we should make a salad using deer tongue (lettuce) and deer tongue (meat)).
 
 - 05/13/2026: The removable cloth flap at the top of an airplane seat is called an antimacassar
-05/14/2026: Have you ever notice that, the logo of 7-11 is actually 7-ELEVEn but not 7-ELEVEN
+
+- 05/14/2026: Have you ever notice that, the logo of 7-11 is actually 7-ELEVEn but not 7-ELEVEN?
 
 - 05/27/2026: A 14-sided polygon is called a quatuordecangle (which only exists in the Oxford English dictionary).
 
@@ -116,21 +113,21 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 06/23/2026: The handrail of a stair is called a banister.
 
-- 07/06/2026: New York was owned by the Netherlands and then sell to the English
+- 07/06/2026: New York was originally called the New Netherland and was owned by the Dutch. It was later renamed as New York ("New" Netherland + King "York") when British took control in 1664.
 
 - 07/23/2026: In Alberta, Canada, there is a landing pad serving UFO.
 
-- 07/30/2026: (Pointless Fact) We know what a buck ($1) and a grand ($1000) are, but do you know that there are middlemans? A sawbuck ($10) and a Benjamin ($100). Over on the British land, they have some interesting slangs as well: A Godiva (£5), a pony (£25), a ton (£100), a monkey (£500), a Joey (£1/60), a Jimmy O Goblin (a sovereign, or equivalently, £1)
+- 07/30/2026: We know what a buck (\$1) and a grand (\$1000) are, but do you know that there are middlemans? A sawbuck (\$10) and a Benjamin (\$100). Over on the British land, they have some interesting slangs as well: A Godiva (£5), a pony (£25), a ton (£100), a monkey (£500), a Joey (£1/60), a Jimmy O Goblin (a sovereign, or equivalently, £1)
 
-- 07/31/2026: The words “uncopyrightable” are known as the longest words without a repeating letter. subdermatoglyphic
+- 07/31/2026: Subdermatoglyphic is a 17-letter word that serves as the longest known first-order isogram (a word with no repeated letters) in the English language. It is a medical term referring to the layer of skin beneath the patterns of our fingerprints, palm prints, or toe prints.
 
 - 08/15/2026: How many people can you crammed into a classic Mini Cooper? 27. (According to the Guinness World Record)
 
 - 08/15/2026: When you dial a number to someone on the phone, you probably notice that the 26 letters are represented by the numbers, but do you know that the number 1 has no letters associate to it. (You can check it yourself now!) In the early days of the phone system, the number 1 is reserved for long-distance calling.
 
-- 08/15/2026: The fastest 100m runner older than 100 yo finishes the run in 26 seconds
+- 08/15/2026: The fastest 100m runner older than 100 yo finishes the run in 26 seconds. (That's like 4m/s, what an impressive speed!)
 
-- 08/25/2026: International flights into Australia are required to spray disinfectant throughout the plane before it can deplane! (AFAIK it is g to be only country requiring that.)
+- 08/25/2026: International flights into Australia are required to spray disinfectant throughout the plane before it can deplane! (AFAIK it is the only country requiring that.)
 
 - 08/28/2026: On an analog clock, the hour hand and minute hand overlap 22 times in a day (not 24). They don’t overlap between 11 and 12 o’clock!
 
