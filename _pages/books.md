@@ -143,9 +143,6 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 10/16/2026: “Rest Madam” is an anagram of a city known for its bike culture: Amsterdam. (It’s also one of my absolute favorite cities.)
 
-
-
-
 ***
 
 COntent below this line are from the original template (that will be removed/replaced once I figure out the exact mechanism on how it works)
