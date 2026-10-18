@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Non-math
 nav: true
 nav_order: 8
 dropdown: true
