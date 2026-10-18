@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
-title: bookshelf
-permalink: /books/
+title: Fun facts you should(n't) know
+permalink: /funfact/
 nav: false
 collection: books
 ---
