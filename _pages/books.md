@@ -117,11 +117,11 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 07/23/2026: In Alberta, Canada, there is a landing pad serving UFO.
 
-- 07/30/2026: We know what a buck (\$1) and a grand (\$1000) are, but do you know that there are middlemans? A sawbuck (\$10) and a Benjamin (\$100). Over on the British land, they have some interesting slangs as well: A Godiva (£5), a pony (£25), a ton (£100), a monkey (£500), a Joey (£1/60), a Jimmy O Goblin (a sovereign, or equivalently, £1)
+- 07/30/2026: We know what a buck (\\$1) and a grand (\\$1000) are, but do you know that there are middlemans? A sawbuck (\\$10) and a Benjamin (\\$100). Over on the British land, they have some interesting slangs as well: A Godiva (£5), a pony (£25), a ton (£100), a monkey (£500), a Joey (£1/60), a Jimmy O Goblin (a sovereign, or equivalently, £1)
 
 - 07/31/2026: Subdermatoglyphic is a 17-letter word that serves as the longest known first-order isogram (a word with no repeated letters) in the English language. It is a medical term referring to the layer of skin beneath the patterns of our fingerprints, palm prints, or toe prints.
 
-- 08/15/2026: How many people can you crammed into a classic Mini Cooper? 27. (According to the Guinness World Record)
+- 08/15/2026: How many people can you crammed into a classic Mini Cooper? 27 (according to the Guinness World Record).
 
 - 08/15/2026: When you dial a number to someone on the phone, you probably notice that the 26 letters are represented by the numbers, but do you know that the number 1 has no letters associate to it. (You can check it yourself now!) In the early days of the phone system, the number 1 is reserved for long-distance calling.
 
