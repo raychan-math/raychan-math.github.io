@@ -3,7 +3,7 @@ layout: page
 title: Fun facts you should(n't) know
 permalink: /funfact/
 nav: false
-collection: books
+# collection: books
 ---
 
 Want to have something to lighten up your day? Or you want to impress someone in a party? You are in the right place then. As you might know by now, this page enlists facts that you might never know of. Some of them are humorous, some are pointless.

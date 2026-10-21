@@ -8,6 +8,9 @@ children:
   - title: Fun fact you should(n't) know
     permalink: /funfact/
   - title: divider
-  - title: blog
+  - title: Blog
     permalink: /blog/
+  - title: divider
+  - title: Recipes
+    permalink: /recipe/
 ---
