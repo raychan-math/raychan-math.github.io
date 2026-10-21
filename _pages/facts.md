@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: page
 title: Fun facts you should(n't) know
 permalink: /funfact/
 nav: false
@@ -143,8 +143,6 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 10/16/2026: “Rest Madam” is an anagram of a city known for its bike culture: Amsterdam. (It’s also one of my absolute favorite cities.)
 
-***
+- 10/17/2026: A lummox is a clumsy, awkward, or foolish person.
 
-COntent below this line are from the original template (that will be removed/replaced once I figure out the exact mechanism on how it works)
-
-## Books that I am reading, have read, or will read
+- 10/19/2026: Our modern convention divides our daytime into two parts: morning and afternoon. But have you ever wonder: if there is afternoon, then is there *beforenoon*? Well turns out there is, although it is more commonly(?) called *forenoon* and is typically referred to just the period between 9 AM to 12 PM. OTOH, there is also *postnoon*, which is the same as afternoon.
