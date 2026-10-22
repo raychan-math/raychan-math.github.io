@@ -3,10 +3,12 @@ layout: page
 title: Recipe
 permalink: /recipe/
 nav: false
-nav_order: 8
+# nav_order:
 ---
 
-Here is a collection of some recipes. Unlike most recipe websites, all recipes here are viewable without any annoying ad, and the background of the dish (if exists) are given after Instructions.
+Here is a collection of some recipes. most of them are very elementary and can be elevated by adding some extra ingredients.
+
+Unlike most recipe websites, all recipes here are viewable without any annoying ad, and the background of the dish (if exists) are given after Instructions.
 
 # German Currywurst
 
@@ -57,4 +59,4 @@ This is a common street food in Berlin. After World War 2, German was in some ki
 
 ### Background
 
-This is a very traditional family dish in Switzerland, but you may have a hard time finding it in restairants in Switzerland. It is basically the Swiss version of a Bolognese sauce. But unlike Bolognese suace, efficiency is what makes this dish stands out.
+This is a very traditional family dish in Switzerland. It is basically the Swiss version of a Bolognese sauce. But unlike Bolognese suace, efficiency is what makes this dish stands out.
