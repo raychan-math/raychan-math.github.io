@@ -146,3 +146,11 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 - 10/17/2026: A lummox is a clumsy, awkward, or foolish person.
 
 - 10/19/2026: Our modern convention divides our daytime into two parts: morning and afternoon. But have you ever wonder: if there is afternoon, then is there *beforenoon*? Well turns out there is, although it is more commonly(?) called *forenoon* and is typically referred to just the period between 9 AM to 12 PM. OTOH, there is also *postnoon*, which is the same as afternoon.
+
+- 10/22/2026: The geographical center of the United State is at Rugby, North Dakota.
+
+- 10/22/2026: The capital city of the state of New York is not New York City; it is Albany, some 2 hours driving away from New York City.
+
+- 10/22/2026: 85% of the world's canned pumpkin are from Morton, Illinois. Therefore, Morton is also known as the pumpkin capital of the world.
+
+- 10/22/2026: Kansas City is in Misouri, not Kansas (don't ask why).
