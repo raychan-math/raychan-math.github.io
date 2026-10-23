@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: members of the lab or group
 nav: false
-# nav_order:
+nav_order:
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -19,7 +19,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
