@@ -154,3 +154,25 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 - 10/22/2026: 85% of the world's canned pumpkin are from Morton, Illinois. Therefore, Morton is also known as the pumpkin capital of the world.
 
 - 10/22/2026: Kansas City is in Misouri, not Kansas (don't ask why).
+
+- 10/24/2026: D65 is a standard illuminant defined by the International Commission on Illumination (CIE) that simulates average midday daylight. Essentially, it is a standard definition of white outside physics.
+
+- 10/25/2026: Shrove Tuesday (also known as pancake Tuesday) is always 47 days before Easter Sunday.
+
+- 10/25/2026: Both lobster and crab have 10 legs (including the claws).
+
+- 10/26/2026: Having "two left feet" is a phrase that means a person is clumsy or awkward.
+
+- 10/26/2026: A Single-Event Upset (SEU) is a non-destructive "soft error" in a microelectronic device where a single ionizing particle causes a bit to flip from a 0 to a 1 or vice versa.
+
+- 10/26/2026: In the world of professional boxing, there are, mind-bogglingly, 17 weight classes! (This is ridiculous!) They are: Strawweight, Light flyweight, Flyweight, Super flyweight, Bantamweight, Super bantamweight, Featherweight, Super featherweight, Lightweight, Super lightweight, Welterweight, Super welterweight, Middleweight, Super middleweight, Light heavyweight, Cruiserweight, Heavyweight.
+
+- 10/26/2026: Two little ducks = 22 (in British Bingo, at least).
+
+- 10/26/2026: Timor Leste (an island nation between Asia and Australia) got its name from both the Portugese and Malaysian. Timor translates to "east" in Malay, and Leste translates to "east" in Portugese, so Timor Leste means "east east."
+
+- 10/26/2026: Singapore has its name derived from lion ("Singa") and city ("pore"), despite there is absolutely no lion in Singapore (except zoos).
+
+- 10/26/2026: The country Cameroon is named after shrimp!
+
+- 10/26/2026: To blow up your mind once more, Turkey is not named after turkey; the converse is true though.
