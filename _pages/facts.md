@@ -176,3 +176,39 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 - 10/26/2026: The country Cameroon is named after shrimp!
 
 - 10/26/2026: To blow up your mind once more, Turkey is not named after turkey; the converse is true though.
+
+- 10/31/2026: Have you ever wonder why the basins you see in your doctor's office is always kidney shaped? It was designed in such a way that it can fits most of the curvy part of your body: your arms, your cheek, your leg, etc.
+
+- 11/02/2026: Maple syrup is a producy of spring, not autumm.
+
+- 11/04/2026: The dish Turducken is made by stuffing a deboned chicken inside a deboned duck, which is then stuffed inside a deboned turkey.
+
+- 11/05/2026: Wikipedia was first launched in January 15, 2001. (Wow, it is younger than me!)
+
+- 11/06/2026: The object that you hit with your racket in badminton is called a shuttlecock.
+
+- 11/08/2026: According to the FDA, sunglasses are classified as medical devices. In particular, buying and shipping sunglasses from outside the US is subject to FDA regulations. (This is just dumb.)
+
+- 11/09/2026: Gymnastics has its name come from a Greek word meaning ``exercise naked." (I'm serious about this.)
+
+- 11/12/2026: Brussels Airport has the world's largest sales outlet of chocolates, selling over 2 tonnes of chocolate per day on average (and that baffles me; as I have landed there once, and the airport is not a large one as an international airport).
+
+- 11/13/2026: There are ships registered in Liechtenstein, a completely landlock country.
+
+- 11/14/2026: In Thailand's Khao Yai National Park, if you leave any trash behind after camping, the authority will collect them and post it back to you.
+
+- 11/14/2026: Archaeological evidence in Peru shows that popcorn existed since at least 4700 BC.
+
+- 11/15/2026: Unlike traditional bread, bagels are made by first boiling the dough in a water with some barley malt syrup (and then baked, for real this time). The boiling, or prebake if you wish, firms up the dough exterior so that it doesn't rise during the baking process, which is why bagels are so dense and have higher calories than standard bread.
+
+- 11/16/2026: Sugar glider is a flying squirrels-like animal that's native in Australia and nearly island countries.
+
+- 11/19/2026: In Scotland, a tron is a public weighting machine.
+
+- 11/19/2026: An oxymoron is a figure of speech that pairs two contradictory or opposing terms to create a paradoxical effect (like bittersweet).
+
+- 11/21/2026: Ta is an everyday(?) phrase in British, Irish, and Australian English meaning "thank you." It originate from "tack" (thank you in Scandinavia).
+
+- 11/21/2026: In Australia, a dog's eye means a meat pie.
+
+- 11/21/2026: In Australia, a bathroom is called Dunny (abbreviated from Dunnekin, the guy who invented it).
