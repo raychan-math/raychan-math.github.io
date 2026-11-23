@@ -211,4 +211,4 @@ On that spirit, the Dulles International airport is located in Virginia but is a
 
 - 11/21/2026: In Australia, a dog's eye means a meat pie.
 
-- 11/21/2026: In Australia, a bathroom is called Dunny (abbreviated from Dunnekin, the guy who invented it).
+- 11/21/2026: In Australia, a bathroom is called Dunny (abbreviated from Dunnekin).

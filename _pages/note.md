@@ -13,3 +13,5 @@ This page contains various notes I have written (or have contributed to). If any
 This year's [LAWRGe](https://sites.google.com/view/lawrge2024) (The Los Angeles Workshop on Representations and Geometry) gives a 5-day intensive lectures on the relative Langland duality. A note was written by all participants and is available [here](https://www.hwilliams.net/lawrge2024.pdf).
 
 ## GAeL XXXIII (2026 Edition)
+
+[This](/assets/pdf/GAeL_XXXIII_note.pdf) is a detail note of the 33rd edition of GAeL (Géométrie Algébrique en Liberté).
