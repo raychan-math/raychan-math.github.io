@@ -5,10 +5,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Fun fact you should(n't) know
+  - title: Fun and obscure facts
     permalink: /funfact/
   - title: divider
-  - title: Blog
+  - title: Blog (template)
     permalink: /blog/
   - title: divider
   - title: Recipes
