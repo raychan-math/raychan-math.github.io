@@ -27,9 +27,13 @@ This year's [LAWRGe](https://sites.google.com/view/lawrge2024) (The Los Angeles 
 
 # Learning Notes
 
+## Habiro Ring Seminar (To be appeared soon)
+
+This is a note for the reading group ran in Winter 2026 by Motohico Mulase about Habiro rings.
+
 ## Note for MAT 250 (UC Davis)
 
-Written in Summer 2022, [this](/assets/pdf/MAT_250_note.pdf) is a set of complete note on the three graduate courses on algebras. It was meant to be a practice for my LaTeX skill over the summer, and I haven't edited it since then.
+Written in Summer 2022, [this](/assets/pdf/MAT_250_note.pdf) is a set of complete note on the three graduate courses on algebras. It was meant to be a practice for my LaTeX skill over the summer, and I haven't edited it since then. (The preamble I used back then was quite terrible, so I will need to completely overhual my file if I ever edit it again.)
 
 ## Higgs bundles (preliminary title)
 
